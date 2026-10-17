@@ -2,7 +2,7 @@
 
 KITCaptions is a free, browser-based SRT creation and editing tool for video editors. Generate or refine subtitles, arrange them across multiple timeline tracks, then import the exported SRT into Adobe Premiere Pro or another editor. Choose the caption styling, typography, and animation you want in your editing software.
 
-The timeline can be split into 2–12 caption parts. Transcription uses a supported API provider and your own API key; provider free-tier availability and usage limits may apply.
+The timeline can be split into 2ÔøΩ12 caption parts. Transcription uses a supported API provider and your own API key; provider free-tier availability and usage limits may apply.
 
 ## Screenshots
 
@@ -25,6 +25,12 @@ The timeline can be split into 2–12 caption parts. Transcription uses a suppor
 ### Download and SEO caption panel
 
 ![Download tracks and generate an SEO-friendly caption](assets/screenshots/download-panel.png)
+
+## Final output preview
+
+https://github.com/user-attachments/assets/ba596fc4-1987-4e96-83b1-4d75509f753d
+
+See the [Instagram video demo](https://www.instagram.com/p/DeW80HEOKMX/) as well.
 
 ## What it does
 
@@ -53,7 +59,7 @@ Some browser features work best when the page is served over HTTPS or from `loca
 ### Host it free with GitHub Pages
 
 1. Create a public GitHub repository and upload the files in this project.
-2. In the repository, open **Settings → Pages**.
+2. In the repository, open **Settings ? Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**, then select `main` and `/(root)`.
 4. Save. GitHub will publish the site at `https://YOUR-USERNAME.github.io/REPOSITORY/` after the Pages build completes.
 
@@ -79,11 +85,11 @@ There is no build step or package installation required for the app itself.
 
 ## Project files
 
-- `KITCaptions.html` — complete editable app (HTML, CSS, and JavaScript).
-- `index.html` — redirects the site root to the app.
-- `assets/screenshots/` — home, main editor, timeline, caption setup, and download screenshots.
-- `LICENSE` — MIT License.
-- `README.md` — usage, setup, privacy, and contribution notes.
+- `KITCaptions.html` ÔøΩ complete editable app (HTML, CSS, and JavaScript).
+- `index.html` ÔøΩ redirects the site root to the app.
+- `assets/screenshots/` ÔøΩ home, main editor, timeline, caption setup, and download screenshots.
+- `LICENSE` ÔøΩ MIT License.
+- `README.md` ÔøΩ usage, setup, privacy, and contribution notes.
 
 ## License
 
